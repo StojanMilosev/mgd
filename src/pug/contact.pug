@@ -1,0 +1,32 @@
+doctype html
+html(lang='sr')
+  head
+    include templates/header.pug
+  body
+    include templates/nav.pug 
+    .container
+      h1 Kontakt
+      iframe#mapa(src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11235.314031463537!2d19.3852915!3d45.2512605!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd4e7f75dfdc9d9b2!2sMGD+Distribucija!5e0!3m2!1sen!2srs!4v1507901742390", frameborder="0", allowfullscreen)
+      .col-md-6.col-xs-12  
+        h3 Opšti podaci firme
+        ul
+          li
+            p Naziv: MGD Distribucija D.O.O
+          li
+            p Adresa: Rodoljuba Čolakovića 23 Bačka Palanka
+          li
+            p Matični broj: 20706856
+          li
+            p PIB: 106923881
+          li
+            p Žiro račun: 170-0030023822000-69
+      .col-md-6.col-xs-12
+        h3 kontakt podaci
+        ul
+          li
+            p telefon: 021/8488336
+          li
+            p mob: 06x/xxxxxxx
+          li
+            p Email Adresa: mgd@email.com
+    include templates/footer.pug
