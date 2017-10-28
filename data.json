@@ -1660,9 +1660,117 @@
 					"transportno_pakovanje":"30/1"
 				}
 			],
-			"Džakovi za smeće":[]
+			"Džakovi za smeće":[
+				{
+					"redni_broj":1,
+					"naziv_proizvoda":"Džakovi za smeće 460*600(40l)",
+					"jedinica_mere":"set(10kom)",
+					"VP_cena":19.10,
+					"transportno_pakovanje":"10/1"
+				},
+				{
+					"redni_broj":2,
+					"naziv_proizvoda":"Džakovi za smeće 500*700(60l)",
+					"jedinica_mere":"set(10kom)",
+					"VP_cena":24.20,
+					"transportno_pakovanje":"10/1"
+				},
+				{
+					"redni_broj":3,
+					"naziv_proizvoda":"Džakovi za smeće 700*1100(120l)",
+					"jedinica_mere":"set(10kom)",
+					"VP_cena":53.00,
+					"transportno_pakovanje":"10/1"
+				},
+				{
+					"redni_broj":4,
+					"naziv_proizvoda":"Džakovi za smeće 500*900(80l)",
+					"jedinica_mere":"set(10kom)",
+					"VP_cena":31.20,
+					"transportno_pakovanje":"10/1"
+				},
+				{
+					"redni_broj":5,
+					"naziv_proizvoda":"Džakovi za smeće LD 600*1000(100l) glatki",
+					"jedinica_mere":"set(10kom)",
+					"VP_cena":115.00,
+					"transportno_pakovanje":"10/1"
+				},
+				{
+					"redni_broj":6,
+					"naziv_proizvoda":"Džakovi za smeće LD 700*1100(120l) glatki",
+					"jedinica_mere":"set(10kom)",
+					"VP_cena":150.00,
+					"transportno_pakovanje":"10/1"
+				}
+			]
 		}
 	],
-	"Vino, Sokovi":[],
-	"Pasulji":[]
+	"Vino, Sokovi":[
+		{
+			"redni_broj":1,
+			"naziv_proizvoda":"Pepsi 2l",
+			"jedinica_mere":"l",
+			"VP_cena":73.00,
+			"transportno_pakovanje":"8"
+		},
+		{
+			"redni_broj":2,
+			"naziv_proizvoda":"Vino vranac victory 1l",
+			"jedinica_mere":"kom",
+			"VP_cena":125.00,
+			"transportno_pakovanje":"6"
+		},
+		{
+			"redni_broj":3,
+			"naziv_proizvoda":"Vino roze victory 1l",
+			"jedinica_mere":"kom",
+			"VP_cena":117.00,
+			"transportno_pakovanje":"6"
+		},
+		{
+			"redni_broj":4,
+			"naziv_proizvoda":"Vino rizling victory 1l",
+			"jedinica_mere":"kom",
+			"VP_cena":117.00,
+			"transportno_pakovanje":"6"
+		},
+		{
+			"redni_broj":5,
+			"naziv_proizvoda":"Vino smederevka victory 1l",
+			"jedinica_mere":"kom",
+			"VP_cena":117.00,
+			"transportno_pakovanje":"6"
+		},
+		{
+			"redni_broj":6,
+			"naziv_proizvoda":"Vino ružica victory 1l",
+			"jedinica_mere":"kom",
+			"VP_cena":122.00,
+			"transportno_pakovanje":"6"
+		}
+	],
+	"Pasulji":[
+		{
+			"redni_broj":1,
+			"naziv_proizvoda":"Pasulj Gradistanac rinfuz",
+			"jedinica_mere":"kg",
+			"VP_cena":222.00,
+			"transportno_pakovanje":"25kg"
+		},
+		{
+			"redni_broj":2,
+			"naziv_proizvoda":"Pasulj Pasuljica rinfuz",
+			"jedinica_mere":"kg",
+			"VP_cena":200.00,
+			"transportno_pakovanje":"25kg"
+		},
+		{
+			"redni_broj":3,
+			"naziv_proizvoda":"Pasulj Tetovac rinfuz",
+			"jedinica_mere":"kg",
+			"VP_cena":250.00,
+			"transportno_pakovanje":"25kg"
+		},
+	]
 }
