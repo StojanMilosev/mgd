@@ -11,7 +11,7 @@ module.exports = function(grunt){
             },//options
             js:{
                 files:{
-                    'dist/js/spa.min.js':'src/js/*.js'
+                    'dist/js/mig.min.js':'src/js/*.js'
                 }
             },//js
         },//uglify
@@ -42,7 +42,7 @@ module.exports = function(grunt){
         watch:{
             js:{
                 files:['src/js/*.js'],
-                tasks:['babel','uglify'],
+                tasks:['uglify'],
                 options:{
                     livereload : true
                 }
