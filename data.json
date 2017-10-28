@@ -1373,12 +1373,296 @@
 			"Tekstil":[
 				{
 					"redni_broj":1,
-					"naziv_proizvoda":"",
+					"naziv_proizvoda":"Pamučna ženska majica - kratki rukav Arilje",
 					"jedinica_mere":"kom",
-					"VP_cena":,
-					"transportno_pakovanje":""
+					"VP_cena":300.00,
+					"transportno_pakovanje":"1/1"
+				},
+				{
+					"redni_broj":2,
+					"naziv_proizvoda":"Pamučna ženska majica - bretele Arilje boja",
+					"jedinica_mere":"kom",
+					"VP_cena":205.00,
+					"transportno_pakovanje":"1/1"
+				},
+				{
+					"redni_broj":3,
+					"naziv_proizvoda":"Veš muški beli - Arilje",
+					"jedinica_mere":"kom",
+					"VP_cena":153.00,
+					"transportno_pakovanje":"5/1"
+				},
+				{
+					"redni_broj":4,
+					"naziv_proizvoda":"Veš ženski beli - Arilje",
+					"jedinica_mere":"kom",
+					"VP_cena":140.00,
+					"transportno_pakovanje":"5/1"
+				},
+				{
+					"redni_broj":5,
+					"naziv_proizvoda":"Dečja atlet majica - Arilje 2/4/6/8",
+					"jedinica_mere":"kom",
+					"VP_cena":160.00,
+					"transportno_pakovanje":"1/1"
+				},
+				{
+					"redni_broj":6,
+					"naziv_proizvoda":"Dečiji veš boja - Arilje 2/4/6/8",
+					"jedinica_mere":"kom",
+					"VP_cena":139.00,
+					"transportno_pakovanje":"1/1"
+				},
+				{
+					"redni_broj":7,
+					"naziv_proizvoda":"Dečija veš boja - Arilje 10/12/14",
+					"jedinica_mere":"kom",
+					"VP_cena":139.00,
+					"transportno_pakovanje":"1/1"
+				},
+				{
+					"redni_broj":8,
+					"naziv_proizvoda":"Dečiji komplet veš/majica - Arilje 2/4/6/8",
+					"jedinica_mere":"kom",
+					"VP_cena":265.00,
+					"transportno_pakovanje":"1/1"
+				},
+				{
+					"redni_broj":9,
+					"naziv_proizvoda":"Dečiji komplet veš/majica - Arilje 2/4/6/8",
+					"jedinica_mere":"kom",
+					"VP_cena":265.00,
+					"transportno_pakovanje":"1/1"
+				},
+				{
+					"redni_broj":10,
+					"naziv_proizvoda":"Muška atlet majica - Arilje",
+					"jedinica_mere":"kom",
+					"VP_cena":185.00,
+					"transportno_pakovanje":"1/1"
+				},
+				{
+					"redni_broj":11,
+					"naziv_proizvoda":"Ženska atlet majica - Arilje",
+					"jedinica_mere":"kom",
+					"VP_cena":185.00,
+					"transportno_pakovanje":"1/1"
+				},
+				{
+					"redni_broj":12,
+					"naziv_proizvoda":"Peškir 90x50",
+					"jedinica_mere":"kom",
+					"VP_cena":169.00,
+					"transportno_pakovanje":"10/1"
+				},
+				{
+					"redni_broj":13,
+					"naziv_proizvoda":"Muške čarape nazuvice",
+					"jedinica_mere":"kom",
+					"VP_cena":54.00,
+					"transportno_pakovanje":"12/1"
+				},
+				{
+					"redni_broj":14,
+					"naziv_proizvoda":"Ženske čarape nazuvice",
+					"jedinica_mere":"kom",
+					"VP_cena":54.00,
+					"transportno_pakovanje":"12/1"
+				},
+				{
+					"redni_broj":15,
+					"naziv_proizvoda":"Dečije čarape nazuivce",
+					"jedinica_mere":"kom",
+					"VP_cena":54.00,
+					"transportno_pakovanje":"12/1"
+				},
+				{
+					"redni_broj":16,
+					"naziv_proizvoda":"Čarapa muška duboka III +",
+					"jedinica_mere":"kom",
+					"VP_cena":63.00,
+					"transportno_pakovanje":"12/1"
+				},
+				{
+					"redni_broj":17,
+					"naziv_proizvoda":"Čarapa muška pamučna",
+					"jedinica_mere":"kom",
+					"VP_cena":72.00,
+					"transportno_pakovanje":"12/1"
+				},
+				{
+					"redni_broj":18,
+					"naziv_proizvoda":"Čarapa ženska duboka III +",
+					"jedinica_mere":"kom",
+					"VP_cena":59.00,
+					"transportno_pakovanje":"12/1"
+				},
+				{
+					"redni_broj":19,
+					"naziv_proizvoda":"Čarapa sportska",
+					"jedinica_mere":"kom",
+					"VP_cena":49.00,
+					"transportno_pakovanje":"12/1"
+				},
+				{
+					"redni_broj":20,
+					"naziv_proizvoda":"Čarapa dečija duboka",
+					"jedinica_mere":"kom",
+					"VP_cena":57.00,
+					"transportno_pakovanje":"12/1"
+				},
+				{
+					"redni_broj":21,
+					"naziv_proizvoda":"Čarapa ženska pamučna",
+					"jedinica_mere":"kom",
+					"VP_cena":72.00,
+					"transportno_pakovanje":"12/1"
+				},
+				{
+					"redni_broj":22,
+					"naziv_proizvoda":"Termo čarape muške",
+					"jedinica_mere":"kom",
+					"VP_cena":89.00,
+					"transportno_pakovanje":"12/1"
+				},
+				{
+					"redni_broj":23,
+					"naziv_proizvoda":"Termo čarape ženske",
+					"jedinica_mere":"kom",
+					"VP_cena":89.00,
+					"transportno_pakovanje":"12/1"
+				},
+				{
+					"redni_broj":24,
+					"naziv_proizvoda":"Termo čarape dečije",
+					"jedinica_mere":"kom",
+					"VP_cena":80.00,
+					"transportno_pakovanje":"12/1"
+				},
+				{
+					"redni_broj":25,
+					"naziv_proizvoda":"Kuhinjske krpe 12/1",
+					"jedinica_mere":"kom",
+					"VP_cena":93.00,
+					"transportno_pakovanje":"12/1"
+				},
+				{
+					"redni_broj":26,
+					"naziv_proizvoda":"Kuhinjska kecelja 6/1",
+					"jedinica_mere":"kom",
+					"VP_cena":137.00,
+					"transportno_pakovanje":"6/1"
+				},
+				{
+					"redni_broj":27,
+					"naziv_proizvoda":"Papuče kućne",
+					"jedinica_mere":"kom",
+					"VP_cena":146.00,
+					"transportno_pakovanje":"1/1"
 				}
 			]
 		}
 	],
+	"Kese, džakovi, kese za zamrzivač":[
+		{
+			"Kese tregerice":[
+				{
+					"redni_broj":1,
+					"naziv_proizvoda":"180x230-100/1",
+					"jedinica_mere":"kom",
+					"VP_cena":0.35,
+					"transportno_pakovanje":"2000"
+				},
+				{
+					"redni_broj":2,
+					"naziv_proizvoda":"220x420 = 0.170kg",
+					"jedinica_mere":"kom",
+					"VP_cena":0.48,
+					"transportno_pakovanje":"2000"
+				},
+				{
+					"redni_broj":3,
+					"naziv_proizvoda":"240x450 = 0.210kg",
+					"jedinica_mere":"kom",
+					"VP_cena":0.66,
+					"transportno_pakovanje":"2000"
+				},
+				{
+					"redni_broj":4,
+					"naziv_proizvoda":"270x500 = 0.350kg",
+					"jedinica_mere":"kom",
+					"VP_cena":0.94,
+					"transportno_pakovanje":"1000"
+				},
+				{
+					"redni_broj":5,
+					"naziv_proizvoda":"270x550",
+					"jedinica_mere":"kom",
+					"VP_cena":1.07,
+					"transportno_pakovanje":"1000"
+				}
+			],
+			"Kese za zamrzivač":[
+				{
+					"redni_broj":1,
+					"naziv_proizvoda":"165x250x0.01 = 0.0255kg - 1/1",
+					"jedinica_mere":"set(30kom)",
+					"VP_cena":9.10,
+					"transportno_pakovanje":"30/1"
+				},
+				{
+					"redni_broj":2,
+					"naziv_proizvoda":"195x290x0.01=0.0345kg - 2/1",
+					"jedinica_mere":"set(30kom)",
+					"VP_cena":12.60,
+					"transportno_pakovanje":"30/1"
+				},
+				{
+					"redni_broj":3,
+					"naziv_proizvoda":"225x330x0.01=0.045kg - 3/1",
+					"jedinica_mere":"set(30kom)",
+					"VP_cena":16.50,
+					"transportno_pakovanje":"30/1"
+				},
+				{
+					"redni_broj":4,
+					"naziv_proizvoda":"265x360x0.001=0.060kg - 4/1",
+					"jedinica_mere":"set(30kom)",
+					"VP_cena":22.00,
+					"transportno_pakovanje":"30/1"
+				},
+				{
+					"redni_broj":5,
+					"naziv_proizvoda":"165x250x0.018=0.059kg - 1/1",
+					"jedinica_mere":"set(30kom)",
+					"VP_cena":17.70,
+					"transportno_pakovanje":"30/1"
+				},
+				{
+					"redni_broj":6,
+					"naziv_proizvoda":"195x290x0.018=0.081kg - 2/1",
+					"jedinica_mere":"set(30kom)",
+					"VP_cena":23.80,
+					"transportno_pakovanje":"30/1"
+				},
+				{
+					"redni_broj":7,
+					"naziv_proizvoda":"225x330x0.018=0.110kg - 3/1",
+					"jedinica_mere":"set(30kom)",
+					"VP_cena":29.00,
+					"transportno_pakovanje":"30/1"
+				},
+				{
+					"redni_broj":8,
+					"naziv_proizvoda":"265x360x0.0018=0.140kg - 4/1",
+					"jedinica_mere":"set(30kom)",
+					"VP_cena":34.70,
+					"transportno_pakovanje":"30/1"
+				}
+			],
+			"Džakovi za smeće":[]
+		}
+	],
+	"Vino, Sokovi":[],
+	"Pasulji":[]
 }
