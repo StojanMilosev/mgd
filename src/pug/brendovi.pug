@@ -5,8 +5,9 @@ html(lang='sr')
   body
     include templates/nav.pug 
     .container
-        h1.text-center Brendovi
-        ul
+        .page-header
+            h1 Brendovi
+        ul(style='display:none;')
           li Delikato
           li Belkino
           li Katarina mladenovac
@@ -21,4 +22,32 @@ html(lang='sr')
           li Perffeto
           li Fresh
           li Tisa Bečej
+        a(href='#').thumbnail.brend
+            img(src='img/brendovi/delikato.png')
+        a(href='#').thumbnail.brend
+            img(src='img/brendovi/aleksandrija_fruska_gora.png')
+        a(href='#').thumbnail.brend
+            img(src='img/brendovi/katarina_mladenovac.png')
+        a(href='#').thumbnail.brend
+            img(src='img/brendovi/sentela.jpg')
+        a(href='#').thumbnail.brend
+            img(src='img/brendovi/danubis.png')
+        a(href='#').thumbnail.brend
+            p Belkino
+        a(href='#').thumbnail.brend
+            p Ženeva Evro S
+        a(href='#').thumbnail.brend
+            p Renesansa Vrbas
+        a(href='#').thumbnail.brend
+            p Tina Karavukovo
+        a(href='#').thumbnail.brend
+            p Koktel Sivac
+        a(href='#').thumbnail.brend
+            p Adresa
+        a(href='#').thumbnail.brend
+            p Perffeto
+        a(href='#').thumbnail.brend
+            p Fresh
+        a(href='#').thumbnail.brend
+            p Tisa Bečej
     include templates/footer.pug

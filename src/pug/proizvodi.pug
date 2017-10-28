@@ -5,36 +5,49 @@ html(lang='sr')
   body
     include templates/nav.pug 
     .container
-        h1.text-center Proizvodi
-        ol
-          li Mesne preradjevine "Delikato"
-          li Mlečni program "Belkino"
-          li Kondiktorski program
-            ul
-              li Katarina" mladenovac
-              li "Aleksandrija"
-              li "Ženeva Evro S" Lesnica
-          li Testenine
-            ul
-              li Sentela
-              li Danubis
-              li Renesansa Vrbas, Tina karavukovo
-          li Pakeraj
-            ul
-              li koktel Sivac
-              li  Ares
-          li Osnovne životne namirnice
-          li Papirna konfekcija "Perfetto"
-          li Hemija,plastika,četke,metle,tekstil
-            ul
-              li Hemija "Fresh"
-              li Četke, metle "Tisa" bečej
-              li Tekstil
-          li Kese, džakovi, kese za zamrzivač
-            ul
-              li Kese tregerice
-              li Kese za zamrzivač
-              li Džakovi za smeće
-          li Vino,Sokovi
-          li Pasulji
+        h1.page-header Proizvodi
+        ul.col-md-6
+            li Mesne preradjevine "Delikato"
+            li Mlečni program "Belkino"
+            li 
+                p Kondiktorski program
+                ul
+                  li Katarina" mladenovac
+                  li "Aleksandrija"
+                  li "Ženeva Evro S" Lesnica
+            li Testenine
+                ul
+                  li Sentela
+                  li Danubis
+                  li Renesansa Vrbas, Tina karavukovo
+            li Pakeraj
+                ul
+                  li koktel Sivac
+                  li  Ares
+            li Osnovne životne namirnice
+            li Papirna konfekcija "Perfetto"
+            li Hemija,plastika,četke,metle,tekstil
+                ul
+                  li Hemija "Fresh"
+                  li Četke, metle "Tisa" bečej
+                  li Tekstil
+            li Kese, džakovi, kese za zamrzivač
+                ul
+                  li Kese tregerice
+                  li Kese za zamrzivač
+                  li Džakovi za smeće
+            li Vino,Sokovi
+            li Pasulji
+        .col-md-6
+            .panel.panel-default
+                .panel-heading Kondiktorski proizvodi
+                .panel-body
+                    ul
+                      li
+                        a(href='#') Katarina" mladenovac
+                      li
+                        a(href='#') "Aleksandrija"
+                      li 
+                        a(href='#') "Ženeva Evro S" Lesnica
+            
     include templates/footer.pug

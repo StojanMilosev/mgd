@@ -32,10 +32,10 @@ module.exports = function(grunt){
                 },//options
                 files:{
                     'dist/index.php':'src/pug/main.pug',
-										'dist/contact.html':'src/pug/contact.pug',
-										'dist/onama.html':'src/pug/onama.pug',
-										'dist/proizvodi.html':'src/pug/proizvodi.pug',
-										'dist/brendovi.html':'src/pug/brendovi.pug',
+                    'dist/contact.php':'src/pug/contact.pug',
+                    'dist/onama.php':'src/pug/onama.pug',
+                    'dist/proizvodi.php':'src/pug/proizvodi.pug',
+                    'dist/brendovi.php':'src/pug/brendovi.pug',
                 }//files
             }//compile
         },//pug

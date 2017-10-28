@@ -1,0 +1,1384 @@
+{
+	"Mesne Preradjevine Delikato":[
+		{
+			"redni_broj":1,
+			"naziv_proizvoda":"Alpska",
+			"jedinica_mere":"kg",
+			"VP_cena":322.77,
+			"transportno_pakovanje":"5kg"
+		},
+		{
+			"redni_broj":2,
+			"naziv_proizvoda":"Posebna",
+			"jedinica_mere":"kg",
+			"VP_cena":234.25,
+			"transportno_pakovanje":"5kg"
+		},
+		{
+			"redni_broj":3,
+			"naziv_proizvoda":"Pileca posebna",
+			"jedinica_mere":"kg",
+			"VP_cena":199.00,
+			"transportno_pakovanje":"5kg"
+		},
+		{
+			"redni_broj":4,
+			"naziv_proizvoda":"Pileca virsla",
+			"jedinica_mere":"kg",
+			"VP_cena":188.00,
+			"transportno_pakovanje":"5kg"
+		},
+		{
+			"redni_broj":5,
+			"naziv_proizvoda":"Pileca virsla 200 gr.vakum ",
+			"jedinica_mere":"kom",
+			"VP_cena":48.58,
+			"transportno_pakovanje":"5kg"
+		},
+		{
+			"redni_broj":6,
+			"naziv_proizvoda":"Posebna mini 400 gr",
+			"jedinica_mere":"kom",
+			"VP_cena":102.00,
+			"transportno_pakovanje":"5kg"
+		},
+		{
+			"redni_broj":7,
+			"naziv_proizvoda":"Pileca pariska mini 400 gr",
+			"jedinica_mere":"kom",
+			"VP_cena":89.60,
+			"transportno_pakovanje":"5kg"
+		},
+		{
+			"redni_broj":8,
+			"naziv_proizvoda":"Pileca pariska sa sirom mini 330 gr",
+			"jedinica_mere":"kom",
+			"VP_cena":93.73,
+			"transportno_pakovanje":"5kg"
+		},
+		{
+			"redni_broj":9,
+			"naziv_proizvoda":"Pileca pariska sa sirom i paprikom 400 gr",
+			"jedinica_mere":"kom",
+			"VP_cena":102.55,
+			"transportno_pakovanje":"5kg"
+		},
+		{
+			"redni_broj":10,
+			"naziv_proizvoda":"Pileca extra kobasica mini 400 gr",
+			"jedinica_mere":"kom",
+			"VP_cena":86.25,
+			"transportno_pakovanje":"5kg"
+		},
+		{
+			"redni_broj":11,
+			"naziv_proizvoda":"Pileca pariska specijal 330 gr",
+			"jedinica_mere":"kom",
+			"VP_cena":70.17,
+			"transportno_pakovanje":"5kg"
+		},
+		{
+			"redni_broj":12,
+			"naziv_proizvoda":"Alpska mini 400 gr",
+			"jedinica_mere":"kom",
+			"VP_cena":142.49,
+			"transportno_pakovanje":"5kg"
+		}
+
+	],
+	"Mlečni program Belkino":[
+		{
+			"redni_broj":1,
+			"naziv_proizvoda":"Mleko pasterizovano 2.8. 1lit",
+			"jedinica_mere":"litar",
+			"VP_cena":66.95,
+			"transportno_pakovanje":"15"
+		},
+		{
+				"redni_broj":2,
+				"naziv_proizvoda":"Mleko pasterizovano 1.6 1lit",
+				"jedinica_mere":"litar",
+				"VP_cena":62.83,
+				"transportno_pakovanje":"15"
+			},
+			{
+				"redni_broj":3,
+				"naziv_proizvoda":"Jogurt čaša 2.8lit",
+				"jedinica_mere":"litar",
+				"VP_cena":93.73,
+				"transportno_pakovanje":"12"
+			},
+			{
+				"redni_broj":4,
+				"naziv_proizvoda":"Jogurt flaša 1lit",
+				"jedinica_mere":"litar",
+				"VP_cena":90.64,
+				"transportno_pakovanje":"12"
+			},
+			{
+				"redni_broj":5,
+				"naziv_proizvoda":"Jogurt flaša 2.8 0.5lit",
+				"jedinica_mere":"litar",
+				"VP_cena":53.56,
+				"transportno_pakovanje":"30"
+			},
+			{
+				"redni_broj":6,
+				"naziv_proizvoda":"Jogurt čaša 2.8 0.18lit",
+				"jedinica_mere":"litar",
+				"VP_cena":18.13,
+				"transportno_pakovanje":"30"
+			},
+			{
+				"redni_broj":7,
+				"naziv_proizvoda":"Kiselo mleko čaša 0.18lit",
+				"jedinica_mere":"litar",
+				"VP_cena":19.36,
+				"transportno_pakovanje":"30"
+			},
+			{
+				"redni_broj":8,
+				"naziv_proizvoda":"Kisela Pavlaka čaša 0.18lit",
+				"jedinica_mere":"litar",
+				"VP_cena":36.26,
+				"transportno_pakovanje":"30"
+			},
+			{
+				"redni_broj":9,
+				"naziv_proizvoda":"PIZZA sir 1/1",
+				"jedinica_mere":"kg",
+				"VP_cena":700.40,
+				"transportno_pakovanje":"6"
+			},
+			{
+				"redni_broj":10,
+				"naziv_proizvoda":"PIZZA sir 1/2",
+				"jedinica_mere":"kg",
+				"VP_cena":700.40,
+				"transportno_pakovanje":"12"
+			},
+			{
+				"redni_broj":11,
+				"naziv_proizvoda":"Feta sir Belkino 1kg",
+				"jedinica_mere":"kg",
+				"VP_cena":313.12,
+				"transportno_pakovanje":"3"
+			},
+			{
+				"redni_broj":12,
+				"naziv_proizvoda":"Feta sir 450 gr",
+				"jedinica_mere":"kg",
+				"VP_cena":186.43,
+				"transportno_pakovanje":"4"
+			},
+			{
+				"redni_broj":13,
+				"naziv_proizvoda":"Sitan sir-rinfuz 10kg",
+				"jedinica_mere":"kg",
+				"VP_cena":234.84,
+				"transportno_pakovanje":"1"
+			},
+			{
+				"redni_broj":14,
+				"naziv_proizvoda":"Sitan sir 450 gr",
+				"jedinica_mere":"kg",
+				"VP_cena":120.51,
+				"transportno_pakovanje":"8"
+			},
+			{
+				"redni_broj":15,
+				"naziv_proizvoda":"Baš kajmak rinfuz",
+				"jedinica_mere":"kg",
+				"VP_cena":623.15,
+				"transportno_pakovanje":"8"
+			},
+			{
+				"redni_broj":16,
+				"naziv_proizvoda":"Zamrznuti maslac u bloku 4 kg",
+				"jedinica_mere":"kg",
+				"VP_cena":607.70,
+				"transportno_pakovanje":"1"
+			}
+	],
+	"Kondiktorski program":[
+		{
+			"Katarina Mladenovac":[
+				{
+					"redni_broj":1,
+					"naziv_proizvoda":"Krem CHOCO MIX 400 gr",
+					"jedinica_mere":"kom",
+					"VP_cena":76.96,
+					"transportno_pakovanje":"12"
+				},
+				{
+					"redni_broj":2,
+					"naziv_proizvoda":"Krem CHOCO MIX 800 gr",
+					"jedinica_mere":"kom",
+					"VP_cena":143.52,
+					"transportno_pakovanje":"8"
+				},
+				{
+					"redni_broj":3,
+					"naziv_proizvoda":"Minjon kocka Katarina 300 gr",
+					"jedinica_mere":"kom",
+					"VP_cena":83.85,
+					"transportno_pakovanje":"12"
+				},
+				{
+					"redni_broj":4,
+					"naziv_proizvoda":"Žele mix 350 gr Katarina",
+					"jedinica_mere":"kom",
+					"VP_cena":97.83,
+					"transportno_pakovanje":"18"
+				},
+				{
+					"redni_broj":5,
+					"naziv_proizvoda":"Rum štangla 350 gr Katarina",
+					"jedinica_mere":"kom",
+					"VP_cena":"97.83",
+					"transportno_pakovanje":"18"
+				},
+				{
+					"redni_broj":6,
+					"naziv_proizvoda":"Kokos štangla 300 gr Katarina",
+					"jedinica_mere":"kom",
+					"VP_cena":83.85,
+					"transportno_pakovanje":"18"
+				},
+				{
+					"redni_broj":7,
+					"naziv_proizvoda":"Kokošija supa 40 gr Katarina",
+					"jedinica_mere":"kom",
+					"VP_cena":11.70,
+					"transportno_pakovanje":"45"
+				},
+				{
+					"redni_broj":8,
+					"naziv_proizvoda":"Goveđa supa 40 gr Katarina",
+					"jedinica_mere":"kom",
+					"VP_cena":11.70,
+					"transportno_pakovanje":"45"
+				},
+				{
+					"redni_broj":9,
+					"naziv_proizvoda":"Posna supa 40 gr Katarina",
+					"jedinica_mere":"kom",
+					"VP_cena":11.70,
+					"transportno_pakovanje":"45"
+				},
+				{
+					"redni_broj":10,
+					"naziv_proizvoda":"Kikiriki pečen slan 250 gr Katarina",
+					"jedinica_mere":"kom",
+					"VP_cena":74.61,
+					"transportno_pakovanje":"20"
+				},
+				{
+					"redni_broj":11,
+					"naziv_proizvoda":"Kakao krem tabla 100 gr Katarina",
+					"jedinica_mere":"kom",
+					"VP_cena":21.45,
+					"transportno_pakovanje":"40"
+				},
+				
+				{
+					"redni_broj":12,
+					"naziv_proizvoda":"Mlečna bela krem tabla 100 gr Katarina",
+					"jedinica_mere":"kom",
+					"VP_cena":21.45,
+					"transportno_pakovanje":"40"
+				},				
+				{
+					"redni_broj":13,
+					"naziv_proizvoda":"Aleva paprika slatka 100 gr Katarina",
+					"jedinica_mere":"kom",
+					"VP_cena":63.05,
+					"transportno_pakovanje":"30"
+				},
+				
+				{
+					"redni_broj":14,
+					"naziv_proizvoda":"Obrano mleko u prahu 100 gr Katarina",
+					"jedinica_mere":"kom",
+					"VP_cena":87.75,
+					"transportno_pakovanje":"20"
+				},				
+				{
+					"redni_broj":15,
+					"naziv_proizvoda":"Meduško 500 gr Katarina",
+					"jedinica_mere":"kom",
+					"VP_cena":81.25,
+					"transportno_pakovanje":"5"
+				},				
+				{
+					"redni_broj":16,
+					"naziv_proizvoda":"Keksiko 500 gr Katarina",
+					"jedinica_mere":"kom",
+					"VP_cena":56.39,
+					"transportno_pakovanje":"10"
+				},
+				{
+					"redni_broj":17,
+					"naziv_proizvoda":"Šlag krem beli 500 gr Katarina",
+					"jedinica_mere":"kom",
+					"VP_cena":123.50,
+					"transportno_pakovanje":"16"
+				},
+				{
+					"redni_broj":18,
+					"naziv_proizvoda":"Šlag krem beli 100 gr Katarina",
+					"jedinica_mere":"kom",
+					"VP_cena":27.79,
+					"transportno_pakovanje":"25"
+				},
+				{
+					"redni_broj":19,
+					"naziv_proizvoda":"Šlag pena 1-1 Katarina",
+					"jedinica_mere":"kom",
+					"VP_cena":247.00,
+					"transportno_pakovanje":"8"
+				},
+				{
+					"redni_broj":20,
+					"naziv_proizvoda":"Šlag pena 100 gr Katarina",
+					"jedinica_mere":"kom",
+					"VP_cena":27.39,
+					"transportno_pakovanje":"25"
+				},				
+				{
+					"redni_broj":21,
+					"naziv_proizvoda":"Ekonomik začin 1 kg Katarina",
+					"jedinica_mere":"kom",
+					"VP_cena":67.60,
+					"transportno_pakovanje":"7"
+				},
+				{
+					"redni_broj":22,
+					"naziv_proizvoda":"Ekonomik začin 500 gr Katarina",
+					"jedinica_mere":"kom",
+					"VP_cena":35.10,
+					"transportno_pakovanje":"12"
+				},				
+				{
+					"redni_broj":23,
+					"naziv_proizvoda":"Puding vanila 100 gr Katarina",
+					"jedinica_mere":"kom",
+					"VP_cena":11.97,
+					"transportno_pakovanje":"30"
+				},
+				{
+					"redni_broj":24,
+					"naziv_proizvoda":"Medenjak čokoladni 300 gr Katarina",
+					"jedinica_mere":"kom",
+					"VP_cena":58.50,
+					"transportno_pakovanje":"10"
+				}
+			]
+		},
+		{
+			"Aleksandrija":[
+				{
+					"redni_broj":1,
+					"naziv_proizvoda":"Štrudla mešano voće 155 gr",
+					"jedinica_mere":"kom",
+					"VP_cena":47.16,
+					"transportno_pakovanje":"21"
+				},
+				{
+					"redni_broj":2,
+					"naziv_proizvoda":"Štrudla mešano voće  230 gr",
+					"jedinica_mere":"kom",
+					"VP_cena":67.39,
+					"transportno_pakovanje":"14"
+				},
+				{
+					"redni_broj":3,
+					"naziv_proizvoda":"Štrudla smokva 155 gr",
+					"jedinica_mere":"kom",
+					"VP_cena":47.16,
+					"transportno_pakovanje":"21"
+				},
+				{
+					"redni_broj":4,
+					"naziv_proizvoda":"Štrudla smokva 230 gr",
+					"jedinica_mere":"kom",
+					"VP_cena": 67.39,
+					"transportno_pakovanje":"14"
+				},
+				{
+					"redni_broj":5,
+					"naziv_proizvoda":"Štrudla višnja 155 gr",
+					"jedinica_mere":"kom",
+					"VP_cena":47.16,
+					"transportno_pakovanje":"21"
+				},
+				{
+					"redni_broj":6,
+					"naziv_proizvoda":"Štrudla višnja 230 gr",
+					"jedinica_mere":"kom",
+					"VP_cena":67.39,
+					"transportno_pakovanje":"14"
+				},
+				{
+					"redni_broj":7,
+					"naziv_proizvoda":"Štrudla smokva rnf 4 kg",
+					"jedinica_mere":"kg",
+					"VP_cena":238.71,
+					"transportno_pakovanje":"4kg"
+				},
+				{
+					"redni_broj":8,
+					"naziv_proizvoda":"Štrudla mešana rnf 4 kg",
+					"jedinica_mere":"kg",
+					"VP_cena":238.71,
+					"transportno_pakovanje":"4kg"
+				},
+				{
+					"redni_broj":9,
+					"naziv_proizvoda":"Kogo sendvić keks 230 gr",
+					"jedinica_mere":"kg",
+					"VP_cena":72.00,
+					"transportno_pakovanje":"14"
+				},
+				{
+					"redni_broj":10,
+					"naziv_proizvoda":"Novi domaći cookies 250 gr",
+					"jedinica_mere":"kg",
+					"VP_cena":67.00,
+					"transportno_pakovanje":"16"
+				},
+				{
+					"redni_broj":11,
+					"naziv_proizvoda":"Kogo keks rnf 4kg",
+					"jedinica_mere":"kg",
+					"VP_cena":228.00,
+					"transportno_pakovanje":"4kg"
+				},
+				{
+					"redni_broj":12,
+					"naziv_proizvoda":"Novi domaći cookies 5kg",
+					"jedinica_mere":"kg",
+					"VP_cena":228.00,
+					"transportno_pakovanje":"5kg"
+				}
+			]
+		},
+		{
+			"Ženeva Evro S - Lesnica":[
+				{
+					"redni_broj":1,
+					"naziv_proizvoda":"Vanilice filovane višnja 500gr",
+					"jedinica_mere":"kom",
+					"VP_cena":106,
+					"transportno_pakovanje":"15"
+				},
+				{
+					"redni_broj":2,
+					"naziv_proizvoda":"Gric keks čoko ježić 180gr",
+					"jedinica_mere":"kom",
+					"VP_cena":49.00,
+					"transportno_pakovanje":"18"
+				},
+				{
+					"redni_broj":3,
+					"naziv_proizvoda":"Gric keks snežana šapica 180 gr",
+					"jedinica_mere":"kom",
+					"VP_cena":44.00,
+					"transportno_pakovanje":"18"
+				},
+				{
+					"redni_broj":4,
+					"naziv_proizvoda":"Keksić vanila 220 gr",
+					"jedinica_mere":"kom",
+					"VP_cena":55.00,
+					"transportno_pakovanje":"18"
+				},
+				{
+					"redni_broj":5,
+					"naziv_proizvoda":"Čoko narandža 220 gr",
+					"jedinica_mere":"kom",
+					"VP_cena":60.50,
+					"transportno_pakovanje":"18"
+				}
+			]
+		}
+	],
+	"Testenine":[
+		{
+			"Sentela":[
+				{
+					"redni_broj":1,
+					"naziv_proizvoda":"Testenina spirala 350gr",
+					"jedinica_mere":"kom",
+					"VP_cena":28.80,
+					"transportno_pakovanje":"34"
+				},
+				{
+					"redni_broj":2,
+					"naziv_proizvoda":"Testenine kose makarone 350gr",
+					"jedinica_mere":"kom",
+					"VP_cena":28.80,
+					"transportno_pakovanje":"40"
+				},
+				{
+					"redni_broj":3,
+					"naziv_proizvoda":"Testenine grkljančići 8mm 350gr",
+					"jedinica_mere":"kom",
+					"VP_cena":28.80,
+					"transportno_pakovanje":"40"
+				},
+				{
+					"redni_broj":4,
+					"naziv_proizvoda":"Testenina špageti 500gr",
+					"jedinica_mere":"kom",
+					"VP_cena":41.00,
+					"transportno_pakovanje":"30"
+				}
+			]
+		},
+		{
+			"Danubis":[
+				{
+					"redni_broj":1,
+					"naziv_proizvoda":"Danubis makarona vitamin 400gr",
+					"jedinica_mere":"kom",
+					"VP_cena":33.04,
+					"transportno_pakovanje":"30/1"
+				},
+				{
+					"redni_broj":2,
+					"naziv_proizvoda":"Danubis radijator vitaminizirani 400gr",
+					"jedinica_mere":"kom",
+					"VP_cena":33.04,
+					"transportno_pakovanje":"25/1"
+				},
+				{
+					"redni_broj":3,
+					"naziv_proizvoda":"Danubis fida gnezdo 400gr",
+					"jedinica_mere":"kom",
+					"VP_cena":33.04,
+					"transportno_pakovanje":"20/1"
+				},
+				{
+					"redni_broj":4,
+					"naziv_proizvoda":"Danubis domaći rezanci motani 40gr",
+					"jedinica_mere":"kom",
+					"VP_cena":33.04,
+					"transportno_pakovanje":"20/1"
+				},
+				{
+					"redni_broj":5,
+					"naziv_proizvoda":"Danubis grkljančići vitaminizirani 400gr",
+					"jedinica_mere":"kom",
+					"VP_cena":33.04,
+					"transportno_pakovanje":"30/1"
+				},
+				{
+					"redni_broj":6,
+					"naziv_proizvoda":"Danubis špageti 400gr",
+					"jedinica_mere":"kom",
+					"VP_cena":33.98,
+					"transportno_pakovanje":"30/1"
+				},
+				{
+					"redni_broj":7,
+					"naziv_proizvoda":"Danubis čipkasto testo 500gr",
+					"jedinica_mere":"kom",
+					"VP_cena":47.14,
+					"transportno_pakovanje":"20/1"
+				},
+				{
+					"redni_broj":8,
+					"naziv_proizvoda":"Danubis pužić 400gr",
+					"jedinica_mere":"kom",
+					"VP_cena":33.04,
+					"transportno_pakovanje":""
+				}
+			]
+		},
+		{
+			"Renesansa Vrbas, Tina Karavukovo":[
+				{
+					"redni_broj":1,
+					"naziv_proizvoda":"Testenina Makarona Tina rnf",
+					"jedinica_mere":"kg",
+					"VP_cena":74.00,
+					"transportno_pakovanje":"10"
+				},
+				{
+					"redni_broj":2,
+					"naziv_proizvoda":"Testenina spirala Jana rnf",
+					"jedinica_mere":"kg",
+					"VP_cena":74.00,
+					"transportno_pakovanje":"10"
+				},
+				{
+					"redni_broj":3,
+					"naziv_proizvoda":"Testenina fida rnf Jana",
+					"jedinica_mere":"kg",
+					"VP_cena":74.00,
+					"transportno_pakovanje":"10"
+				},
+				{
+					"redni_broj":4,
+					"naziv_proizvoda":"Testenina široki rezanac Jana rnf",
+					"jedinica_mere":"kg",
+					"VP_cena":74.00,
+					"transportno_pakovanje":"10"
+				},
+				{
+					"redni_broj":5,
+					"naziv_proizvoda":"Testenina Makaron Jana",
+					"jedinica_mere":"kg",
+					"VP_cena":74.00,
+					"transportno_pakovanje":"10"
+				},
+				{
+					"redni_broj":6,
+					"naziv_proizvoda":"Testenina školjka Jana",
+					"jedinica_mere":"kg",
+					"VP_cena":74.00,
+					"transportno_pakovanje":"10"
+				},
+				{
+					"redni_broj":7,
+					"naziv_proizvoda":"Testenina puž Jana",
+					"jedinica_mere":"kg",
+					"VP_cena":74.00,
+					"transportno_pakovanje":"10"
+				},
+				{
+					"redni_broj":8,
+					"naziv_proizvoda":"Testenina  čipka Jana rnf",
+					"jedinica_mere":"kg",
+					"VP_cena":74.00,
+					"transportno_pakovanje":"10"
+				},
+				{
+					"redni_broj":9,
+					"naziv_proizvoda":"Makarona filipili 300gr Renesansa",
+					"jedinica_mere":"kom",
+					"VP_cena":26.00,
+					"transportno_pakovanje":"20"
+				},
+				{
+					"redni_broj":10,
+					"naziv_proizvoda":"Spirala filipili 300gr Renesansa",
+					"jedinica_mere":"kom",
+					"VP_cena":26.00,
+					"transportno_pakovanje":"20"
+				},
+				{
+					"redni_broj":11,
+					"naziv_proizvoda":"Puž filipili 300gr Renesansa",
+					"jedinica_mere":"kom",
+					"VP_cena":26.00,
+					"transportno_pakovanje":"20"
+				},
+				{
+					"redni_broj":12,
+					"naziv_proizvoda":"Čipka filipili 250gr Renesansa",
+					"jedinica_mere":"kom",
+					"VP_cena":22.95,
+					"transportno_pakovanje":"20"
+				},
+				{
+					"redni_broj":13,
+					"naziv_proizvoda":"Domaći rezanci extra široki filipili 250gr Renesansa",
+					"jedinica_mere":"kom",
+					"VP_cena":22.95,
+					"transportno_pakovanje":"20"
+				},
+				{
+					"redni_broj":14,
+					"naziv_proizvoda":"Špagete filipili 300gr Renesansa",
+					"jedinica_mere":"kom",
+					"VP_cena":28.56,
+					"transportno_pakovanje":"20"
+				},
+				{
+					"redni_broj":15,
+					"naziv_proizvoda":"Fida filipili 250gr Renesansa",
+					"jedinica_mere":"kom",
+					"VP_cena":22.95,
+					"transportno_pakovanje":"20"
+				},
+				{
+					"redni_broj":16,
+					"naziv_proizvoda":"Široki filipili 250gr Renesansa",
+					"jedinica_mere":"kom",
+					"VP_cena":22.95,
+					"transportno_pakovanje":"20"
+				},
+				{
+					"redni_broj":17,
+					"naziv_proizvoda":"Fida gnezdo filipili 250gr Renesansa",
+					"jedinica_mere":"kom",
+					"VP_cena":22.95,
+					"transportno_pakovanje":"20"
+				}
+			]
+		}
+	],
+	"Pakeraj":[
+		{
+			"Koktel sivac":[
+				{
+					"redni_broj":1,
+					"naziv_proizvoda":"Griz pšenični 500gr",
+					"jedinica_mere":"gram",
+					"VP_cena":40.00,
+					"transportno_pakovanje":"10/1"
+				},
+				{
+					"redni_broj":2,
+					"naziv_proizvoda":"Soda bikarbona 500gr",
+					"jedinica_mere":"gram",
+					"VP_cena":41.00,
+					"transportno_pakovanje":"10/1"
+				},
+				{
+					"redni_broj":3,
+					"naziv_proizvoda":"Pirinač 500gr",
+					"jedinica_mere":"gram",
+					"VP_cena":55.00,
+					"transportno_pakovanje":"20/1"
+				},
+				{
+					"redni_broj":4,
+					"naziv_proizvoda":"Kukuruz kokičar 500gr",
+					"jedinica_mere":"gram",
+					"VP_cena":108.00,
+					"transportno_pakovanje":"10/1"
+				},
+				{
+					"redni_broj":5,
+					"naziv_proizvoda":"Biber crni mleveni 500gr",
+					"jedinica_mere":"gram",
+					"VP_cena":750.00,
+					"transportno_pakovanje":"10/1"
+				},
+				{
+					"redni_broj":6,
+					"naziv_proizvoda":"Šlag 500gr",
+					"jedinica_mere":"gram",
+					"VP_cena":165.00,
+					"transportno_pakovanje":"10/1"
+				},
+				{
+					"redni_broj":7,
+					"naziv_proizvoda":"Žito za kuvanje",
+					"jedinica_mere":"gram",
+					"VP_cena":68.00,
+					"transportno_pakovanje":"10/1"
+				},
+				{
+					"redni_broj":8,
+					"naziv_proizvoda":"Kukuruz kokičar 250gr",
+					"jedinica_mere":"gram",
+					"VP_cena":48.00,
+					"transportno_pakovanje":"20/1"
+				},
+				{
+					"redni_broj":9,
+					"naziv_proizvoda":"Griz pšenični 200gr",
+					"jedinica_mere":"gram",
+					"VP_cena":15.80,
+					"transportno_pakovanje":"20/1"
+				},
+				{
+					"redni_broj":10,
+					"naziv_proizvoda":"Prezla 200gr",
+					"jedinica_mere":"gram",
+					"VP_cena":21.00,
+					"transportno_pakovanje":"20/1"
+				},
+				{
+					"redni_broj":11,
+					"naziv_proizvoda":"Skrob 200gr",
+					"jedinica_mere":"gram",
+					"VP_cena":22.00,
+					"transportno_pakovanje":"20/1"
+				},
+				{
+					"redni_broj":12,
+					"naziv_proizvoda":"Mleko u prahu 200gr",
+					"jedinica_mere":"gram",
+					"VP_cena":169.00,
+					"transportno_pakovanje":"10/1"
+				},
+				{
+					"redni_broj":13,
+					"naziv_proizvoda":"Kokos brašno 100gr",
+					"jedinica_mere":"gram",
+					"VP_cena":45.00,
+					"transportno_pakovanje":"20/1"
+				},
+				{
+					"redni_broj":14,
+					"naziv_proizvoda":"Suvo grožđe 100gr",
+					"jedinica_mere":"gram",
+					"VP_cena":37.00,
+					"transportno_pakovanje":"30/1"
+				},
+				{
+					"redni_broj":15,
+					"naziv_proizvoda":"Susam 100gr",
+					"jedinica_mere":"gram",
+					"VP_cena":56.50,
+					"transportno_pakovanje":"20/1"
+				},
+				{
+					"redni_broj":16,
+					"naziv_proizvoda":"Limuntus 100gr",
+					"jedinica_mere":"gram",
+					"VP_cena":23.00,
+					"transportno_pakovanje":"20/1"
+				},
+				{
+					"redni_broj":17,
+					"naziv_proizvoda":"Mak 100gr",
+					"jedinica_mere":"gram",
+					"VP_cena":59.00,
+					"transportno_pakovanje":"20/1"
+				},
+				{
+					"redni_broj":18,
+					"naziv_proizvoda":"Biber crni mleveni 100gr",
+					"jedinica_mere":"gram",
+					"VP_cena":168.00,
+					"transportno_pakovanje":"20/1"
+				},
+				{
+					"redni_broj":19,
+					"naziv_proizvoda":"Suncokret 100gr",
+					"jedinica_mere":"gram",
+					"VP_cena":28.00,
+					"transportno_pakovanje":"20/1"
+				},
+				{
+					"redni_broj":20,
+					"naziv_proizvoda":"Biber crni mleveni 50gr",
+					"jedinica_mere":"gram",
+					"VP_cena":85.00,
+					"transportno_pakovanje":"20/1"
+				},
+				{
+					"redni_broj":21,
+					"naziv_proizvoda":"Biber crni zrno 50gr",
+					"jedinica_mere":"gram",
+					"VP_cena":136.00,
+					"transportno_pakovanje":"20/1"
+				},
+				{
+					"redni_broj":22,
+					"naziv_proizvoda":"Biber beli mleveni 50gr",
+					"jedinica_mere":"gram",
+					"VP_cena":133.00,
+					"transportno_pakovanje":"20/1"
+				},
+				{
+					"redni_broj":23,
+					"naziv_proizvoda":"Biber crni mleveni 10gr",
+					"jedinica_mere":"gram",
+					"VP_cena":18.00,
+					"transportno_pakovanje":"50/500"
+				},
+				{
+					"redni_broj":24,
+					"naziv_proizvoda":"Biber crni zrno 10gr",
+					"jedinica_mere":"gram",
+					"VP_cena":28.00,
+					"transportno_pakovanje":"50/500"
+				},
+				{
+					"redni_broj":25,
+					"naziv_proizvoda":"Vanilin šećer",
+					"jedinica_mere":"gram",
+					"VP_cena":3.30,
+					"transportno_pakovanje":"100/500"
+				},
+				{
+					"redni_broj":26,
+					"naziv_proizvoda":"Prašak za pecivo 10gr",
+					"jedinica_mere":"gram",
+					"VP_cena":3.90,
+					"transportno_pakovanje":"100/500"
+				},
+				{
+					"redni_broj":27,
+					"naziv_proizvoda":"Origano 3gr",
+					"jedinica_mere":"gram",
+					"VP_cena":4.00,
+					"transportno_pakovanje":"50/500"
+				},
+				{
+					"redni_broj":28,
+					"naziv_proizvoda":"Cimet 10gr",
+					"jedinica_mere":"gram",
+					"VP_cena":8.00,
+					"transportno_pakovanje":"50/500"
+				},
+				{
+					"redni_broj":29,
+					"naziv_proizvoda":"Soda bikarbona 20gr",
+					"jedinica_mere":"gram",
+					"VP_cena":4.20,
+					"transportno_pakovanje":"100/500"
+				},
+				{
+					"redni_broj":30,
+					"naziv_proizvoda":"Želatin 10gr",
+					"jedinica_mere":"gram",
+					"VP_cena":18.00,
+					"transportno_pakovanje":"50/500"
+				},
+				{
+					"redni_broj":31,
+					"naziv_proizvoda":"Limuntus 10gr",
+					"jedinica_mere":"gram",
+					"VP_cena":4.40,
+					"transportno_pakovanje":"100/500"
+				},
+				{
+					"redni_broj":32,
+					"naziv_proizvoda":"Konzervans 5gr",
+					"jedinica_mere":"gram",
+					"VP_cena":4.00,
+					"transportno_pakovanje":"100/500"
+				},
+				{
+					"redni_broj":33,
+					"naziv_proizvoda":"Vinobran 10gr",
+					"jedinica_mere":"gram",
+					"VP_cena":5.50,
+					"transportno_pakovanje":"100/500"
+				},
+				{
+					"redni_broj":34,
+					"naziv_proizvoda":"Šlag pena 40gr",
+					"jedinica_mere":"gram",
+					"VP_cena":17.00,
+					"transportno_pakovanje":"30/120"
+				},
+				{
+					"redni_broj":35,
+					"naziv_proizvoda":"Šećer u prahu",
+					"jedinica_mere":"gram",
+					"VP_cena":38.00,
+					"transportno_pakovanje":"20/100"
+				}
+			]
+		},
+		{
+			"Ares":[
+				{
+					"redni_broj":1,
+					"naziv_proizvoda":"Palenta Ares 450gr",
+					"jedinica_mere":"kom",
+					"VP_cena":39.20,
+					"transportno_pakovanje":"10"
+				},
+				{
+					"redni_broj":2,
+					"naziv_proizvoda":"Brašno kukuruzno Ares 450gr",
+					"jedinica_mere":"kom",
+					"VP_cena":29.40,
+					"transportno_pakovanje":"10"
+				},
+				{
+					"redni_broj":3,
+					"naziv_proizvoda":"Prezla Ares 200gr",
+					"jedinica_mere":"kom",
+					"VP_cena":20.40,
+					"transportno_pakovanje":"20"
+				},
+				{
+					"redni_broj":4,
+					"naziv_proizvoda":"Šećer u prahu Ares 200gr",
+					"jedinica_mere":"kom",
+					"VP_cena":30.50,
+					"transportno_pakovanje":"20"
+				},
+				{
+					"redni_broj":5,
+					"naziv_proizvoda":"Kakao Ares 80gr",
+					"jedinica_mere":"kom",
+					"VP_cena":40.70,
+					"transportno_pakovanje":"20"
+				},
+				{
+					"redni_broj":6,
+					"naziv_proizvoda":"Pšenični griz Ares 450gr",
+					"jedinica_mere":"kom",
+					"VP_cena":37.80,
+					"transportno_pakovanje":"10"
+				},
+				{
+					"redni_broj":7,
+					"naziv_proizvoda":"Kokos brašno Ares 100gr",
+					"jedinica_mere":"kom",
+					"VP_cena":44.50,
+					"transportno_pakovanje":"20"
+				},
+				{
+					"redni_broj":8,
+					"naziv_proizvoda":"Suvo grožđe Ares 100gr",
+					"jedinica_mere":"kom",
+					"VP_cena":42.50,
+					"transportno_pakovanje":"20"
+				}
+			]
+		}
+	],
+	"Osnovne životne namirnice":[
+		{
+			"redni_broj":1,
+			"naziv_proizvoda":"Brašno senčansko t-400 1/1",
+			"jedinica_mere":"kg",
+			"VP_cena":42.20,
+			"transportno_pakovanje":"10"
+		},
+		{
+			"redni_broj":2,
+			"naziv_proizvoda":"Brašno Danubis t-400 meko 1/1",
+			"jedinica_mere":"kg",
+			"VP_cena":41.73,
+			"transportno_pakovanje":"10"
+		},
+		{
+			"redni_broj":3,
+			"naziv_proizvoda":"Ulje iskon",
+			"jedinica_mere":"kom",
+			"VP_cena":115.50,
+			"transportno_pakovanje":"15"
+		},
+		{
+			"redni_broj":4,
+			"naziv_proizvoda":"Ulje sunčica 1l",
+			"jedinica_mere":"kom",
+			"VP_cena":107.00,
+			"transportno_pakovanje":"15"
+		},
+		{
+			"redni_broj":5,
+			"naziv_proizvoda":"Šećer kristal Crvenka 1/1 kg",
+			"jedinica_mere":"kg",
+			"VP_cena":76.40,
+			"transportno_pakovanje":"10"
+		}
+	],
+	"Papirna konfekcija Perffeto":[
+		{
+			"redni_broj":1,
+			"naziv_proizvoda":"Perffeto 10/1 Classic troslojni",
+			"jedinica_mere":"kom",
+			"VP_cena":78.75,
+			"transportno_pakovanje":"10"
+		},
+		{
+			"redni_broj":2,
+			"naziv_proizvoda":"Perffeto Extra 8+2 gratis troslojni",
+			"jedinica_mere":"kom",
+			"VP_cena":101.25,
+			"transportno_pakovanje":"10"
+		},
+		{
+			"redni_broj":3,
+			"naziv_proizvoda":"Perffeto 10/1 Profesional troslojni",
+			"jedinica_mere":"kom",
+			"VP_cena":162.50,
+			"transportno_pakovanje":"8"
+		},
+		{
+			"redni_broj":4,
+			"naziv_proizvoda":"Perffeto Deluxe 8+2 gratis troslojni",
+			"jedinica_mere":"kom",
+			"VP_cena":173.75,
+			"transportno_pakovanje":"8"
+		},
+		{
+			"redni_broj":5,
+			"naziv_proizvoda":"Perffeto 4/1 Profesional troslojni",
+			"jedinica_mere":"kom",
+			"VP_cena":117.50,
+			"transportno_pakovanje":"12"
+		},
+		{
+			"redni_broj":6,
+			"naziv_proizvoda":"Wipex 4/1 Plavi troslojni",
+			"jedinica_mere":"kom",
+			"VP_cena":75.00,
+			"transportno_pakovanje":"12"
+		},
+		{
+			"redni_broj":7,
+			"naziv_proizvoda":"Perffeto 1/1 Bravo troslojni",
+			"jedinica_mere":"kom",
+			"VP_cena":20.63,
+			"transportno_pakovanje":"56"
+		},
+		{
+			"redni_broj":8,
+			"naziv_proizvoda":"Palmero 1/1 dvoslojni",
+			"jedinica_mere":"kom",
+			"VP_cena":17.66,
+			"transportno_pakovanje":"20"
+		},
+		{
+			"redni_broj":9,
+			"naziv_proizvoda":"Perffeto 24/1 Plavi troslojni",
+			"jedinica_mere":"kom",
+			"VP_cena":20.50,
+			"transportno_pakovanje":"6"
+		},
+		{
+			"redni_broj":10,
+			"naziv_proizvoda":"Ubrus Perffeto 2/1 klasik",
+			"jedinica_mere":"kom",
+			"VP_cena":50.00,
+			"transportno_pakovanje":"20"
+		},
+		{
+			"redni_broj":11,
+			"naziv_proizvoda":"Ubrus Perffeto Džambo 1/1 u400",
+			"jedinica_mere":"kom",
+			"VP_cena":86.25,
+			"transportno_pakovanje":"15"
+		},
+		{
+			"redni_broj":12,
+			"naziv_proizvoda":"Salvete Perffeto 28x28 80/1",
+			"jedinica_mere":"kom",
+			"VP_cena":25.00,
+			"transportno_pakovanje":"30"
+		},
+		{
+			"redni_broj":13,
+			"naziv_proizvoda":"Salvete Perffeto 33x33 80/1 bele",
+			"jedinica_mere":"kom",
+			"VP_cena":35.00,
+			"transportno_pakovanje":"20"
+		}
+	],
+	"Hemija, platika, četke, metle, tekstil":[
+		{
+			"Hemija Fresh":[
+				{
+					"redni_broj":1,
+					"naziv_proizvoda":"Tečni sapun 1l Fresh",
+					"jedinica_mere":"kom",
+					"VP_cena":81.00,
+					"transportno_pakovanje":"8"
+				},
+				{
+					"redni_broj":2,
+					"naziv_proizvoda":"Tečni sapun 1l med i mleko",
+					"jedinica_mere":"kom",
+					"VP_cena":81.00,
+					"transportno_pakovanje":"8"
+				},
+				{
+					"redni_broj":3,
+					"naziv_proizvoda":"Tečni sapun med i mleko 500ml",
+					"jedinica_mere":"kom",
+					"VP_cena":73.00,
+					"transportno_pakovanje":"12"
+				},
+				{
+					"redni_broj":4,
+					"naziv_proizvoda":"Tečni sapun fresh 500ml",
+					"jedinica_mere":"kom",
+					"VP_cena":73.00,
+					"transportno_pakovanje":"12"
+				},
+				{
+					"redni_broj":5,
+					"naziv_proizvoda":"Deterdžent za posuđe Lemon 0.5l",
+					"jedinica_mere":"kom",
+					"VP_cena":49.50,
+					"transportno_pakovanje":"12"
+				},
+				{
+					"redni_broj":6,
+					"naziv_proizvoda":"Deterdžent za posuđe Apple 0.5l",
+					"jedinica_mere":"kom",
+					"VP_cena":49.50,
+					"transportno_pakovanje":"12"
+				},
+				{
+					"redni_broj":7,
+					"naziv_proizvoda":"Deterdžent za posuđe Lemon 1l",
+					"jedinica_mere":"kom",
+					"VP_cena":72.50,
+					"transportno_pakovanje":"8"
+				},
+				{
+					"redni_broj":8,
+					"naziv_proizvoda":"Deterdžent za posuđe Apple 1l",
+					"jedinica_mere":"kom",
+					"VP_cena":72.50,
+					"transportno_pakovanje":"8"
+				},
+				{
+					"redni_broj":9,
+					"naziv_proizvoda":"Omekšivač soft 1l",
+					"jedinica_mere":"kom",
+					"VP_cena":94.50,
+					"transportno_pakovanje":"8"
+				},
+				{
+					"redni_broj":10,
+					"naziv_proizvoda":"Omekšivač spring 1l",
+					"jedinica_mere":"kom",
+					"VP_cena":94.50,
+					"transportno_pakovanje":"8"
+				},
+				{
+					"redni_broj":11,
+					"naziv_proizvoda":"Omekšivač fresh 1l",
+					"jedinica_mere":"kom",
+					"VP_cena":94.50,
+					"transportno_pakovanje":"8"
+				},
+				{
+					"redni_broj":12,
+					"naziv_proizvoda":"Sredstvo za staklo 750ml dopuna",
+					"jedinica_mere":"kom",
+					"VP_cena":72.50,
+					"transportno_pakovanje":"8"
+				},
+				{
+					"redni_broj":13,
+					"naziv_proizvoda":"Sredstvo za staklo 750ml pumpica",
+					"jedinica_mere":"kom",
+					"VP_cena":94.50,
+					"transportno_pakovanje":"8"
+				}
+			],
+			"Četke, metle Tisa Bečej":[
+				{
+					"redni_broj":1,
+					"naziv_proizvoda":"Četka wc stalak tisa",
+					"jedinica_mere":"kom",
+					"VP_cena":116.00,
+					"transportno_pakovanje":"12"
+				},
+				{
+					"redni_broj":2,
+					"naziv_proizvoda":"Ribalica",
+					"jedinica_mere":"kom",
+					"VP_cena":75.00,
+					"transportno_pakovanje":"50"
+				},
+				{
+					"redni_broj":3,
+					"naziv_proizvoda":"Arni brisač poda L 400",
+					"jedinica_mere":"kom",
+					"VP_cena":445.00,
+					"transportno_pakovanje":"25"
+				},
+				{
+					"redni_broj":4,
+					"naziv_proizvoda":"Metla cila sa drškom",
+					"jedinica_mere":"kom",
+					"VP_cena":158.00,
+					"transportno_pakovanje":"30"
+				},
+				{
+					"redni_broj":5,
+					"naziv_proizvoda":"Brisko p sa drškom",
+					"jedinica_mere":"kom",
+					"VP_cena":128.00,
+					"transportno_pakovanje":"60"
+				},
+				{
+					"redni_broj":6,
+					"naziv_proizvoda":"Metla salon sa drškom",
+					"jedinica_mere":"kom",
+					"VP_cena":169.00,
+					"transportno_pakovanje":"20"
+				},
+				{
+					"redni_broj":7,
+					"naziv_proizvoda":"Metla anet sa drškom",
+					"jedinica_mere":"kom",
+					"VP_cena":295.00,
+					"transportno_pakovanje":"20"
+				},
+				{
+					"redni_broj":8,
+					"naziv_proizvoda":"Metla marta sa drškom",
+					"jedinica_mere":"kom",
+					"VP_cena":240.00,
+					"transportno_pakovanje":"25"
+				},
+				{
+					"redni_broj":9,
+					"naziv_proizvoda":"Četka sa lopaticom",
+					"jedinica_mere":"kom",
+					"VP_cena":119.00,
+					"transportno_pakovanje":"50"
+				},
+				{
+					"redni_broj":10,
+					"naziv_proizvoda":"Kofa četvrtasta sa cediljkom",
+					"jedinica_mere":"kom",
+					"VP_cena":248.00,
+					"transportno_pakovanje":"20"
+				},
+				{
+					"redni_broj":11,
+					"naziv_proizvoda":"Brisko p uložak",
+					"jedinica_mere":"kom",
+					"VP_cena":75.00,
+					"transportno_pakovanje":"60"
+				},
+				{
+					"redni_broj":12,
+					"naziv_proizvoda":"Cinija mala",
+					"jedinica_mere":"kom",
+					"VP_cena":50.00,
+					"transportno_pakovanje":"120"
+				},
+				{
+					"redni_broj":13,
+					"naziv_proizvoda":"Cinija velika",
+					"jedinica_mere":"kom",
+					"VP_cena":100.00,
+					"transportno_pakovanje":"80"
+				},
+				{
+					"redni_broj":14,
+					"naziv_proizvoda":"Štipaljke krokodil 12/1",
+					"jedinica_mere":"kom",
+					"VP_cena":53.00,
+					"transportno_pakovanje":"120"
+				},
+				{
+					"redni_broj":15,
+					"naziv_proizvoda":"Zoger",
+					"jedinica_mere":"kom",
+					"VP_cena":344.00,
+					"transportno_pakovanje":"5"
+				},
+				{
+					"redni_broj":16,
+					"naziv_proizvoda":"Tacna plastična 460x350",
+					"jedinica_mere":"kom",
+					"VP_cena":167.00,
+					"transportno_pakovanje":"40"
+				}
+			],
+			"Tekstil":[
+				{
+					"redni_broj":,
+					"naziv_proizvoda":"",
+					"jedinica_mere":"kom",
+					"VP_cena":,
+					"transportno_pakovanje":""
+				}
+			]
+		}
+	],
+}
