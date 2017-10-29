@@ -4,7 +4,7 @@
   font-family: Cantarell,sans-serif;
 }
 body{
-    //background-color: #efefef;
+    background-color: #efefef;
     font-size: 15px;
     width:100%;
 }
@@ -76,6 +76,68 @@ footer p,a{
 }
 #cv-link:hover{
     color: #555;
+}
+.item{
+    display: inline-block;
+    width: 200px;
+    height: 150px;
+    border: solid thin black;
+    border-radius: 3px;
+    padding: 5px;
+    margin: 5px;
+}
+.show{
+    display: block;
+}
+.tab-link{
+    background-color: inherit;
+    float: left;
+    cursor: pointer;
+    padding: 15px;
+    margin: 0;
+    -webkit-transition: all 200ms ease-in-out;
+    -moz-transition: all 200ms ease-in-out;
+    transition: all 200ms ease-in-out;
+}
+.tab-link:hover{
+    background-color: #26A927;
+    color: #ddd;
+}
+.tab-link.active{
+    background: #555;
+    color: #ddd;
+}
+.tab-content{
+    display: none;
+    padding: 10px 20px;
+}
+/*vertical tabs*/
+.tab-vertical{
+    float: left;
+    box-sizing: border-box;
+    width: 100%;
+    border: solid 1px #26A927;
+    background-color: #efefef;
+    padding: 0;
+    border-radius: 5px;
+}
+.tab-link-vertical{
+    background-color: inherit;
+    width: 100%;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    -webkit-transition: all 200ms ease-in-out;
+    -moz-transition: all 200ms ease-in-out;
+    transition: all 200ms ease-in-out;
+}
+.tab-content-vertical{
+    box-sizing: border-box;
+    float: left;
+    padding: 10px 20px;
+    border-left: none;
+    border-radius:  0 5px 5px 0 ;
 }
 
 @media screen and (max-width: 900px){

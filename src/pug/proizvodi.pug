@@ -1,3 +1,4 @@
+
 doctype html
 html(lang='sr')
   head
@@ -5,43 +6,75 @@ html(lang='sr')
   body
     include templates/nav.pug 
     .container
-        h1.page-header Proizvodi
-        ul.col-md-6
-            li Mesne preradjevine "Delikato"
-            li Mlečni program "Belkino"
-            li 
-                p Kondiktorski program
-                ul
-                  li Katarina" mladenovac
-                  li "Aleksandrija"
-                  li "Ženeva Evro S" Lesnica
-            li Testenine
-                ul
-                  li Sentela
-                  li Danubis
-                  li Renesansa Vrbas, Tina karavukovo
-            li Pakeraj
-                ul
-                  li koktel Sivac
-                  li  Ares
-            li Osnovne životne namirnice
-            li Papirna konfekcija "Perfetto"
-            li Hemija,plastika,četke,metle,tekstil
-                ul
-                  li Hemija "Fresh"
-                  li Četke, metle "Tisa" bečej
-                  li Tekstil
-            li Kese, džakovi, kese za zamrzivač
-                ul
-                  li Kese tregerice
-                  li Kese za zamrzivač
-                  li Džakovi za smeće
-            li Vino,Sokovi
-            li Pasulji
-        .col-md-6
-            .panel.panel-default
-                .panel-heading Kondiktorski proizvodi
-                .panel-body
-                    button(type='button')#sub eeeeeee
-                    .result aaa
+      .col-md-3
+        .tab-vertical
+          ul.list-unstyled
+            li
+              a#mesne_preradjevine.tab-link.tab-link-vertical Mesne preradjevine "Delikato"
+            li
+              a#mlecni_program.tab-link.tab-link-vertical Mlečni program "Belkino"
+            li
+              a#kondi.tab-link.tab-link-vertical Kondiktorski program
+            li
+              a#testenine.tab-link.tab-link-vertical Testenine
+            li
+              a.tab-link.tab-link-vertical Pakeraj
+            li
+              a.tab-link.tab-link-vertical Osnovne životne namirnice
+            li
+              a.tab-link.tab-link-vertical Papirna konfekcija "Perfetto"
+            li
+              a.tab-link.tab-link-vertical Hemija, plastika, četke,metle, tekstil
+            li
+              a.tab-link.tab-link-vertical Kese, džakovi, kese za zamrzivač
+            li
+              a.tab-link.tab-link-vertical Vino, sokovi
+            li
+              a.tab-link.tab-link-vertical Pasulji
+        
+      .col-md-9
+        .tab-content#meso
+          <?php include 'includes/mesne_preradjevine.php';?>
+        .tab-content#mleko
+          <?php include 'includes/mlecni_program.php';?>
+        .tab-content#proz
+          <?php include 'includes/kondiktorski_pogram.php';?>
+        .tab-content#testenine-proizvodi
+          <?php include 'includes/testenine_pogram.php';?>
+      ul.col-md-6(style='display:none;')
+          li Mesne preradjevine "Delikato"
+          li Mlečni program "Belkino"
+          li 
+              p Kondiktorski program
+              ul
+                li Katarina" mladenovac
+                li "Aleksandrija"
+                li "Ženeva Evro S" Lesnica
+          li Testenine
+              ul
+                li Sentela
+                li Danubis
+                li Renesansa Vrbas, Tina karavukovo
+          li Pakeraj
+              ul
+                li koktel Sivac
+                li  Ares
+          li Osnovne životne namirnice
+          li Papirna konfekcija "Perfetto"
+          li Hemija,plastika,četke,metle,tekstil
+              ul
+                li Hemija "Fresh"
+                li Četke, metle "Tisa" bečej
+                li Tekstil
+          li Kese, džakovi, kese za zamrzivač
+              ul
+                li Kese tregerice
+                li Kese za zamrzivač
+                li Džakovi za smeće
+          li Vino,Sokovi
+          li Pasulji
+        
+
+
+                      
     include templates/footer.pug

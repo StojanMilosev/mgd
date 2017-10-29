@@ -5,6 +5,13 @@ module.exports = function(grunt){
     grunt.initConfig({
 
         pkg: grunt.file.readJSON('package.json'),
+        copy:{
+            main:{
+                files:[
+                    {expand: true,flatten:true, src: ['src/includes/*'], dest: 'dist/includes/', filter: 'isFile'},
+                ]
+            }
+        },//copy
         uglify:{
             options:{
                 mangle: false //fucntion and variable names unchanged
@@ -28,7 +35,7 @@ module.exports = function(grunt){
                     pretty : true,
                     data:{
                         debug:false
-                    }
+                    },
                 },//options
                 files:{
                     'dist/index.php':'src/pug/main.pug',
