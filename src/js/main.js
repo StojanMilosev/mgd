@@ -28,6 +28,35 @@ $(document).ready(function(){
        $('.tab-content').removeClass("show");
         $('#testenine-proizvodi').addClass('show');
     });
+	$('#pakeraj').click(function (){
+       $('.tab-content').removeClass("show");
+        $('#pakeraj-proizvodi').addClass('show');
+    });
+	$('#osnovne_zivotne_namirnice').click(function (){
+       $('.tab-content').removeClass("show");
+        $('#osnovne_zivotne_namirnice-proizvodi').addClass('show');
+    });
+	$('#papirna-konfekcija').click(function (){
+       $('.tab-content').removeClass("show");
+        $('#papirna-konfekcija-proizvodi').addClass('show');
+    });
+	$('#hemija').click(function (){
+       $('.tab-content').removeClass("show");
+        $('#hemija-proizvodi').addClass('show');
+    });
+	$('#kese').click(function (){
+       $('.tab-content').removeClass("show");
+        $('#kese-proizvodi').addClass('show');
+    });
+	$('#vino-sokovi').click(function (){
+       $('.tab-content').removeClass("show");
+        $('#vino-sokovi-proizvodi').addClass('show');
+    });
+	$('#pasulji').click(function (){
+       $('.tab-content').removeClass("show");
+        $('#pasulji-proizvodi').addClass('show');
+    });
+	
 });
 
 function openTab(tabId){

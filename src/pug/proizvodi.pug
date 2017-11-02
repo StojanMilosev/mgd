@@ -18,19 +18,19 @@ html(lang='sr')
             li
               a#testenine.tab-link.tab-link-vertical Testenine
             li
-              a.tab-link.tab-link-vertical Pakeraj
+              a#pakeraj.tab-link.tab-link-vertical Pakeraj
             li
-              a.tab-link.tab-link-vertical Osnovne životne namirnice
+              a#osnovne_zivotne_namirnice.tab-link.tab-link-vertical Osnovne životne namirnice
             li
-              a.tab-link.tab-link-vertical Papirna konfekcija "Perfetto"
+              a#papirna-konfekcija.tab-link.tab-link-vertical Psapirna konfekcija "Perfetto"
             li
-              a.tab-link.tab-link-vertical Hemija, plastika, četke,metle, tekstil
+              a#hemija.tab-link.tab-link-vertical Hemija, plastika, četke,metle, tekstil
             li
-              a.tab-link.tab-link-vertical Kese, džakovi, kese za zamrzivač
+              a#kese.tab-link.tab-link-vertical Kese, džakovi, kese za zamrzivač
             li
-              a.tab-link.tab-link-vertical Vino, sokovi
+              a#vino-sokovi.tab-link.tab-link-vertical Vino, sokovi
             li
-              a.tab-link.tab-link-vertical Pasulji
+              a#pasulji.tab-link.tab-link-vertical Pasulji
         
       .col-md-9
         .tab-content#meso
@@ -40,41 +40,19 @@ html(lang='sr')
         .tab-content#proz
           <?php include 'includes/kondiktorski_pogram.php';?>
         .tab-content#testenine-proizvodi
-          <?php include 'includes/testenine_pogram.php';?>
-      ul.col-md-6(style='display:none;')
-          li Mesne preradjevine "Delikato"
-          li Mlečni program "Belkino"
-          li 
-              p Kondiktorski program
-              ul
-                li Katarina" mladenovac
-                li "Aleksandrija"
-                li "Ženeva Evro S" Lesnica
-          li Testenine
-              ul
-                li Sentela
-                li Danubis
-                li Renesansa Vrbas, Tina karavukovo
-          li Pakeraj
-              ul
-                li koktel Sivac
-                li  Ares
-          li Osnovne životne namirnice
-          li Papirna konfekcija "Perfetto"
-          li Hemija,plastika,četke,metle,tekstil
-              ul
-                li Hemija "Fresh"
-                li Četke, metle "Tisa" bečej
-                li Tekstil
-          li Kese, džakovi, kese za zamrzivač
-              ul
-                li Kese tregerice
-                li Kese za zamrzivač
-                li Džakovi za smeće
-          li Vino,Sokovi
-          li Pasulji
-        
-
-
-                      
+          <?php include 'includes/testenine.php';?>
+        .tab-content#pakeraj-proizvodi
+          <?php include 'includes/pakeraj.php';?>
+        .tab-content#osnovne_zivotne_namirnice-proizvodi
+          <?php include 'includes/osnovne_zivotne_namirnice.php';?>
+        .tab-content#papirna-konfekcija-proizvodi
+          <?php include 'includes/papirna_konfekcija.php';?>
+        .tab-content#hemija-proizvodi
+          <?php include 'includes/hemija.php';?>
+        .tab-content#kese-proizvodi
+          <?php include 'includes/kese.php';?>
+        .tab-content#vino-sokovi-proizvodi
+          <?php include 'includes/vino_sokovi.php';?>
+        .tab-content#pasulji-proizvodi
+          <?php include 'includes/pasulji.php';?>		  
     include templates/footer.pug

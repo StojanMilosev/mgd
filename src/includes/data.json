@@ -734,9 +734,7 @@
 		"Pakeraj",
 		{
 			"koktel_sivac":[
-				{
-					"naziv_kategorije":"Koktel Sivac"
-				},
+				"Koktel Sivac",
 				{
 					"redni_broj":1,
 					"naziv_proizvoda":"Griz pšenični 500gr",
@@ -986,9 +984,7 @@
 		},
 		{
 			"ares":[
-				{
-					"naziv_kategorije":"Ares"
-				},
+				"Ares",
 				{
 					"redni_broj":1,
 					"naziv_proizvoda":"Palenta Ares 450gr",
@@ -1048,7 +1044,7 @@
 			]
 		}
 	],
-	"zivotne_namirnice":[
+	"osnovne_zivotne_namirnice":[
 		"Osnovne životne namirnice",
 		{
 			"redni_broj":1,
