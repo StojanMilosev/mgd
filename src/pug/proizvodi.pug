@@ -7,39 +7,15 @@ html(lang='sr')
     include templates/nav.pug 
     .container
       .col-md-3
-        .tab-vertical
-          ul.list-unstyled
-            li
-              a#mesne_preradjevine.tab-link.tab-link-vertical Mesne preradjevine "Delikato"
-            li
-              a#mlecni_program.tab-link.tab-link-vertical Mlečni program "Belkino"
-            li
-              a#kondi.tab-link.tab-link-vertical Kondiktorski program
-            li
-              a#testenine.tab-link.tab-link-vertical Testenine
-            li
-              a#pakeraj.tab-link.tab-link-vertical Pakeraj
-            li
-              a#osnovne_zivotne_namirnice.tab-link.tab-link-vertical Osnovne životne namirnice
-            li
-              a#papirna-konfekcija.tab-link.tab-link-vertical Psapirna konfekcija "Perfetto"
-            li
-              a#hemija.tab-link.tab-link-vertical Hemija, plastika, četke,metle, tekstil
-            li
-              a#kese.tab-link.tab-link-vertical Kese, džakovi, kese za zamrzivač
-            li
-              a#vino-sokovi.tab-link.tab-link-vertical Vino, sokovi
-            li
-              a#pasulji.tab-link.tab-link-vertical Pasulji
-        
+        include templates/item-nav.pug       
       .col-md-9
         .tab-content#meso
           <?php include 'includes/mesne_preradjevine.php';?>
         .tab-content#mleko
           <?php include 'includes/mlecni_program.php';?>
-        .tab-content#proz
+        .tab-content#katarina-mladenovac-proizvodi
           <?php include 'includes/kondiktorski_pogram.php';?>
-        .tab-content#testenine-proizvodi
+        .tab-content#sentela-proizvodi
           <?php include 'includes/testenine.php';?>
         .tab-content#pakeraj-proizvodi
           <?php include 'includes/pakeraj.php';?>

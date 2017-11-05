@@ -1,6 +1,6 @@
 nbproject/private/
-node_modules/*
-dist/*
+node_modules/
+dist/
 .idea/
 nbproject/
 .vscode/

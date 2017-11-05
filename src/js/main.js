@@ -20,13 +20,13 @@ $(document).ready(function(){
         $('#meso').addClass('show');
     });
 
-    $('#kondi').click(function (){
+    $('#katarina-mladenovac').click(function (){
        $('.tab-content').removeClass("show");
-        $('#proz').addClass('show');
+        $('##katarina-mladenovac-proizvodi').addClass('show');
     });
-    $('#testenine').click(function (){
+    $('#sentela').click(function (){
        $('.tab-content').removeClass("show");
-        $('#testenine-proizvodi').addClass('show');
+        $('#sentela-proizvodi').addClass('show');
     });
 	$('#pakeraj').click(function (){
        $('.tab-content').removeClass("show");
