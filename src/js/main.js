@@ -7,9 +7,7 @@ $(document).ready(function(){
                 jsonData = data;            
             }
         });
-    $('#sub').click(function(){
-        
-    });
+    	
     $('#mlecni_program').click(function(){
         $('.tab-content').removeClass("show");
         $('#mleko').addClass('show');
@@ -40,13 +38,13 @@ $(document).ready(function(){
        $('.tab-content').removeClass("show");
         $('#papirna-konfekcija-proizvodi').addClass('show');
     });
-	$('#hemija').click(function (){
+	$('#hemija-fresh').click(function (){
        $('.tab-content').removeClass("show");
-        $('#hemija-proizvodi').addClass('show');
+        $('#hemija-fresh-proizvodi').addClass('show');
     });
-	$('#kese').click(function (){
+	$('#kese-tregerice').click(function (){
        $('.tab-content').removeClass("show");
-        $('#kese-proizvodi').addClass('show');
+        $('#kese-tregerice-proizvodi').addClass('show');
     });
 	$('#vino-sokovi').click(function (){
        $('.tab-content').removeClass("show");

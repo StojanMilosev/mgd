@@ -7,12 +7,12 @@ nav.navbar.navbar-default.item-nav
     .collapse.navbar-collapse(id='item-meni').item-menu        
         ul.nav.nav-stacked.item-list
             li.active
-              a#mesne_preradjevine.item-link Mesne preradjevine "Delikato"
+                a#mesne_preradjevine.item-link Mesne preradjevine "Delikato"
             li
-              a#mlecni_program.item-link Mlečni program "Belkino"
+                a#mlecni_program.item-link Mlečni program "Belkino"
             li
-                a(href='#kondiktorski_proizvodi',data-togle='collapse').item-link Kondiktorski program #[span.caret]
-                ul#kondiktorski_proizvodi.collapse
+                a(data-toggle='collapse' href='#kondiktorski_proizvodi' aria-expanded="false").item-link Kondiktorski program #[span.caret]
+                ul#kondiktorski_proizvodi.collapse.item-sublist
                     li
                         a#katarina-mladenovac.item-link Katarina mladenovac
                     li
@@ -20,28 +20,44 @@ nav.navbar.navbar-default.item-nav
                     li
                         a#zeneva-lesnica.item-link Ženeva lesnica
             li
-              a Testenine
+                a(data-toggle='collapse' href='#testenine' aria-expanded="false").item-link Testenine #[span.caret]
+                ul#testenine.collapse.item-sublist
+                  li
+                    a#sentela.item-link Sentela
+                  li
+                    a#danubis.item-link Danubis
             li
-              a#sentela.item-link Sentela
+                a#renesansa-tina.item-link Renesansa "Tina"
             li
-              a#danubis.item-link Danubis
+                a(data-toggle='collapse' href='#pakeraj' aria-expanded="false").item-link Pakeraj #[span.caret]
+                ul#pakeraj.collapse.item-sublist
+                    li
+                        a#koktel-sivac.item-link Koktel Sivac
+                    li
+                        a#ares.item-link Ares
             li
-              a#renesansa-tina.item-link Renesansa "Tina"
+                a#osnovne_zivotne_namirnice.item-link Osnovne životne namirnice
             li
-              a Pakeraj
+                a#papirna-konfekcija.item-link Psapirna konfekcija "Perfetto"
             li
-              a#koktel-sivac.item-link Koktel Sivac
+                a(data-toggle='collapse' href='#hemija' aria-expanded="false").item-link Hemija, plastika, četke,metle, tekstil #[span.caret]
+                ul#hemija.collapse.item-sublist
+                    li
+                        a#hemija-fresh.item-link Fresh
+                    li
+                        a#tisa-becej.item-link Tisa  Bečej
+                    li
+                        a#tekstil.item-link Tekstil
             li
-              a#ares.item-link Ares
+                a(data-toggle='collapse' href='#kese' aria-expanded="false").item-link Kese, džakovi za smeće, kese za zamrzivač #[span.caret]
+                ul#kese.collapse.item-sublist
+                    li
+                        a#kese-tregerice.item-link Kese tregerice
+                    li
+                        a#kese-za-zamrzivac.item-link Kese za zamrzivač
+                    li
+                        a#dzakovi-za-smece.item-link Džakovi za smeće
             li
-              a#osnovne_zivotne_namirnice.item-link Osnovne životne namirnice
+                a#vino-sokovi.item-link Vino, sokovi
             li
-              a#papirna-konfekcija.item-link Psapirna konfekcija "Perfetto"
-            li
-              a#hemija.item-link Hemija, plastika, četke,metle, tekstil
-            li
-              a#kese.item-link Kese, džakovi, kese za zamrzivač
-            li
-              a#vino-sokovi.item-link Vino, sokovi
-            li
-              a#pasulji.item-link Pasulji
+                a#pasulji.item-link Pasulji
